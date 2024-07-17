@@ -1,18 +1,3 @@
-/*
- Navicat Premium Dump SQL
-
- Source Server         : SQL Server
- Source Server Type    : SQL Server
- Source Server Version : 15002000 (15.00.2000)
- Source Catalog        : SOF203
- Source Schema         : dbo
-
- Target Server Type    : SQL Server
- Target Server Version : 15002000 (15.00.2000)
- File Encoding         : 65001
-
- Date: 08/07/2024 17:08:02
-*/
 USE master
 GO
 CREATE DATABASE SOF203
